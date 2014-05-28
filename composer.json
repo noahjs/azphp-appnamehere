@@ -1,0 +1,11 @@
+{
+	"name": "noahjs/repo-appnamehere",
+	"license": "proprietary",
+	"require": {
+    "fzaninotto/faker": "dev-master"
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "stable"
+}
